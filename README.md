@@ -186,44 +186,35 @@ Pada pilihan **Keluar**, program akan menghentikan program.
 ## CPP
 
 ### Tampilan Awal
-<img width="667" height="408" alt="Tampilan Awal" src="https://github.com/user-attachments/assets/3eb4e78d-0934-479d-98f7-6701888c260e" />
+![Tampilan Awal](dokumentasi/cpp/Tampilan%20Awal.png)
 
 ### Tambah Data
-
-<img width="314" height="517" alt="Tambah Data" src="https://github.com/user-attachments/assets/ff479c51-29fc-4335-aba3-8cf4f0d4cd73" />
+![Tambah Data CPP](dokumentasi/cpp/Tambah%20Data.png)
 
 ### Tampilan Akhir
+![Tampilan Akhir](dokumentasi/cpp/Tampilan%20Akhir.png)
 
-<img width="395" height="275" alt="Tampilan Akhir" src="https://github.com/user-attachments/assets/db533173-917b-4f97-ba28-7a397bc1bcf0" />
 
 ## Java
 
 ### Tampilan Awal
-
-<img width="509" height="368" alt="Tampilan Awal" src="https://github.com/user-attachments/assets/926b3784-a57a-4e65-9d96-cb4280ff0c18" />
+![Tampilan Awal](dokumentasi/java/Tampilan%20Awal.png)
 
 ### Tambah Data
-
-<img width="478" height="565" alt="Tambah Data" src="https://github.com/user-attachments/assets/708b41dd-ea72-449e-bfcc-a39611b66c0f" />
+![Tambah Data Java](dokumentasi/java/Tambah%20Data.png)
 
 ### Tampilan Akhir
-
-<img width="496" height="371" alt="Tampilan akhir" src="https://github.com/user-attachments/assets/dfe5cdda-5a1a-466f-8d2d-9ddbd4140039" />
+![Tampilan Akhir](dokumentasi/java/Tampilan%20akhir.png)
 
 
 ## Python
 
 ### Tampilan Awal
-
-<img width="491" height="316" alt="Tampilan Awal" src="https://github.com/user-attachments/assets/c426749f-700f-42ad-84cb-193bcc953113" />
+![Tampilan Awal](dokumentasi/python/Tampilan%20Awal.png)
 
 ### Tambah Data
-
-<img width="428" height="542" alt="Tambah Data " src="https://github.com/user-attachments/assets/064562cb-2cae-4238-b3f0-baef9dbd0a65" />
+![Tambah Data Python](dokumentasi/python/Tambah%20Data%20.png)
 
 ### Tampilan Akhir
-
-<img width="397" height="219" alt="Tampilan Akhir" src="https://github.com/user-attachments/assets/a632bc4b-94fd-4456-bfee-d2c6a928100f" />
-
-
+![Tampilan Akhir](dokumentasi/python/Tampilan%20Akhir.png)
 
